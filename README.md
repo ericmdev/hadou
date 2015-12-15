@@ -4,4 +4,4 @@ Hadou is a Node.js application for easy load testing and benchmarking of HTTP se
 
 ## Trivia
 
-Hadou is named after the "Hadouken" - "wave motion fist" or "surge fist".
+Hadou is named "Hadouken" - Japanese for "wave motion fist" or "surge fist".
